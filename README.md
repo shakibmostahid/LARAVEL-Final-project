@@ -1,2 +1,1 @@
-# Atp-3-project-ecom
-
+Vendor is not included here. Please include it before see the project. 
